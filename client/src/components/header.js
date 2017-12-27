@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../res/images/logo.png';
+import logo from '../../res/images/logo-tnc.jpg';
 
 const Header = () => (
   <div style={{ marginTop: 20 }} className="header">

@@ -70,5 +70,11 @@ router.get('/', (req, res) => {
   }
 });
 
+// define the about route
+router.get('/about', function (req, res) {
+  res.send('About birds')
+});
+
+
 
 export default router;
